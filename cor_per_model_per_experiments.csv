@@ -1,0 +1,71 @@
+"model","experiment","cor","p_value","significance_score_p"
+"Gemini (1.6T)","Exp. 10: Short Game Pos. 3 Hard",-0.260068307363368,0.533913106974355,0
+"Gemini (1.6T)","Exp. 1: Full Game",0.609073790848179,0.00564132387575192,2
+"Gemini (1.6T)","Exp. 2: Full Game No Special Cards",0.727157314478419,0.00485620256716744,2
+"Gemini (1.6T)","Exp. 3: Full Game Programmatic",0.855547971499358,3.01796936689804e-06,3
+"Gemini (1.6T)","Exp. 4: Short Game No Reprompting",0.796182669350496,0.203817330649504,0
+"Gemini (1.6T)","Exp. 5: Short Game Pos. 1 Easy",0.842017051472182,0.00872649446459135,2
+"Gemini (1.6T)","Exp. 6: Short Game Pos. 1 Hard",0.279954381521251,0.591039063859014,0
+"Gemini (1.6T)","Exp. 7: Short Game Pos. 2 Easy",0.879074669030403,0.00402947318491318,2
+"Gemini (1.6T)","Exp. 8: Short Game Pos. 2 Hard",0.360439274397975,0.38042875908325,0
+"Gemini (1.6T)","Exp. 9: Short Game Pos. 3 Easy",0.768276033675076,0.0259510558331596,1
+"Gemma2 (27B)","Exp. 10: Short Game Pos. 3 Hard",0.283596371121159,0.586009832051436,0
+"Gemma2 (27B)","Exp. 1: Full Game",0.845947060785436,5.03910952499204e-06,3
+"Gemma2 (27B)","Exp. 2: Full Game No Special Cards",0.846487773552877,3.55403170744005e-05,3
+"Gemma2 (27B)","Exp. 3: Full Game Programmatic",0.876924381480315,8.34622936287904e-07,3
+"Gemma2 (27B)","Exp. 4: Short Game No Reprompting",NA,NA,0
+"Gemma2 (27B)","Exp. 5: Short Game Pos. 1 Easy",0.851775640221947,0.0072631595981231,2
+"Gemma2 (27B)","Exp. 6: Short Game Pos. 1 Hard",-0.13946853596071,0.792153630256467,0
+"Gemma2 (27B)","Exp. 7: Short Game Pos. 2 Easy",0.843374042246212,0.00851271343350062,2
+"Gemma2 (27B)","Exp. 8: Short Game Pos. 2 Hard",-0.431885489648465,0.333229571977356,0
+"Gemma2 (27B)","Exp. 9: Short Game Pos. 3 Easy",0.668948936524148,0.0696741256973507,0
+"Llama3 (70B)","Exp. 10: Short Game Pos. 3 Hard",0.509354536515629,0.197288443088223,0
+"Llama3 (70B)","Exp. 1: Full Game",0.851816349326783,3.69896754029258e-06,3
+"Llama3 (70B)","Exp. 2: Full Game No Special Cards",0.806539478011181,0.000160302656193825,3
+"Llama3 (70B)","Exp. 3: Full Game Programmatic",0.838902788057633,7.18507992515869e-06,3
+"Llama3 (70B)","Exp. 4: Short Game No Reprompting",0.916659694262245,0.0101289853535521,1
+"Llama3 (70B)","Exp. 5: Short Game Pos. 1 Easy",0.85257353528871,0.00715100687662087,2
+"Llama3 (70B)","Exp. 6: Short Game Pos. 1 Hard",0.318719100848645,0.485983353959267,0
+"Llama3 (70B)","Exp. 7: Short Game Pos. 2 Easy",0.883998226855604,0.00357078019349474,2
+"Llama3 (70B)","Exp. 8: Short Game Pos. 2 Hard",0.373363047659495,0.409398128706749,0
+"Llama3 (70B)","Exp. 9: Short Game Pos. 3 Easy",0.768360334060331,0.0259245259365572,1
+"Mistral NeMo (12B)","Exp. 10: Short Game Pos. 3 Hard",0.293364603708426,0.52312018921324,0
+"Mistral NeMo (12B)","Exp. 1: Full Game",0.945326259414345,1.07058896759405e-09,3
+"Mistral NeMo (12B)","Exp. 2: Full Game No Special Cards",0.793426631264397,0.000244384133154372,3
+"Mistral NeMo (12B)","Exp. 3: Full Game Programmatic",0.686347836862358,0.0011741804309644,2
+"Mistral NeMo (12B)","Exp. 4: Short Game No Reprompting",0.502759764444022,0.309400987734912,0
+"Mistral NeMo (12B)","Exp. 5: Short Game Pos. 1 Easy",0.925407687283297,0.00098040077975078,3
+"Mistral NeMo (12B)","Exp. 6: Short Game Pos. 1 Hard",0.157572374634918,0.709405835966862,0
+"Mistral NeMo (12B)","Exp. 7: Short Game Pos. 2 Easy",0.846921556226627,0.00796966918030403,2
+"Mistral NeMo (12B)","Exp. 8: Short Game Pos. 2 Hard",0.798709573866972,0.0174353744328807,1
+"Mistral NeMo (12B)","Exp. 9: Short Game Pos. 3 Easy",0.846284134207619,0.00806556736024766,2
+"Mixtral 8x22B","Exp. 10: Short Game Pos. 3 Hard",-0.0826758103306355,0.86012437587923,0
+"Mixtral 8x22B","Exp. 1: Full Game",0.77202441059396,0.00010772812319512,3
+"Mixtral 8x22B","Exp. 2: Full Game No Special Cards",0.795028308378115,0.000232486953763063,3
+"Mixtral 8x22B","Exp. 3: Full Game Programmatic",0.945289451225519,1.07659483911769e-09,3
+"Mixtral 8x22B","Exp. 4: Short Game No Reprompting",0.900497253910609,0.0371104267312382,1
+"Mixtral 8x22B","Exp. 5: Short Game Pos. 1 Easy",0.868821449347115,0.00510260181778116,2
+"Mixtral 8x22B","Exp. 6: Short Game Pos. 1 Hard",0.0426143242295352,0.936117207049368,0
+"Mixtral 8x22B","Exp. 7: Short Game Pos. 2 Easy",0.891196743727794,0.00296302493493198,2
+"Mixtral 8x22B","Exp. 8: Short Game Pos. 2 Hard",0.221671528442264,0.632856059416614,0
+"Mixtral 8x22B","Exp. 9: Short Game Pos. 3 Easy",0.849952622153487,0.00752360052992688,2
+"Mixtral 8x7B","Exp. 10: Short Game Pos. 3 Hard",NA,NA,0
+"Mixtral 8x7B","Exp. 1: Full Game",NA,NA,0
+"Mixtral 8x7B","Exp. 2: Full Game No Special Cards",NA,NA,0
+"Mixtral 8x7B","Exp. 3: Full Game Programmatic",NA,NA,0
+"Mixtral 8x7B","Exp. 4: Short Game No Reprompting",NA,NA,0
+"Mixtral 8x7B","Exp. 5: Short Game Pos. 1 Easy",NA,NA,0
+"Mixtral 8x7B","Exp. 6: Short Game Pos. 1 Hard",NA,NA,0
+"Mixtral 8x7B","Exp. 7: Short Game Pos. 2 Easy",NA,NA,0
+"Mixtral 8x7B","Exp. 8: Short Game Pos. 2 Hard",NA,NA,0
+"Mixtral 8x7B","Exp. 9: Short Game Pos. 3 Easy",NA,NA,0
+"Qwen2 (72B)","Exp. 10: Short Game Pos. 3 Hard",0.153756308799646,0.742049654894243,0
+"Qwen2 (72B)","Exp. 1: Full Game",0.847088790605852,4.74972949998728e-06,3
+"Qwen2 (72B)","Exp. 2: Full Game No Special Cards",0.905086989242271,1.44311120908913e-06,3
+"Qwen2 (72B)","Exp. 3: Full Game Programmatic",0.922476263773742,1.92515741270552e-08,3
+"Qwen2 (72B)","Exp. 4: Short Game No Reprompting",0.925500350538593,0.00811855276066025,2
+"Qwen2 (72B)","Exp. 5: Short Game Pos. 1 Easy",0.936699127584614,0.000604392597591259,3
+"Qwen2 (72B)","Exp. 6: Short Game Pos. 1 Hard",0.168524392173938,0.717949369116408,0
+"Qwen2 (72B)","Exp. 7: Short Game Pos. 2 Easy",0.893777809504755,0.00276266900865124,2
+"Qwen2 (72B)","Exp. 8: Short Game Pos. 2 Hard",-0.428029588295166,0.338047047608771,0
+"Qwen2 (72B)","Exp. 9: Short Game Pos. 3 Easy",0.944914792782775,0.000400799841425137,3
